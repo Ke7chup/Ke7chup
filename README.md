@@ -8,7 +8,7 @@
 
 日常使用的语言、框架与工具：
 
-![My Skills](https://skillicons.dev/icons?i=java,cs,py,vite,ts,js,nodejs,gradle,idea,pycharm,docker,git,linux&perline=7)
+![My Skills](https://skillicons.dev/icons?i=java,cs,py,nodejs,vite,ts,js,gradle,idea,pycharm,docker,git,linux&perline=7)
 
 ## 🎮 探索方向
 
