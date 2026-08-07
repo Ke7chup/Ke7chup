@@ -1,7 +1,5 @@
 > 🎀 一位正在路上的开发者，用代码把想法一点点变成现实。
 
-::github{repo="Ke7chup/Ke7chup"}
-
 ## 🌸 关于我
 
 一位正处于入门阶段的自学开发者。目前主攻 Java，正在学习 SpringBoot 框架，同时也在同步学习 C# 与 Python。
